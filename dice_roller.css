@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-family: Rockwell;
+    background-image: linear-gradient(red, black);
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 100vh
+}
+
+#rollResult {
+    font-size: 50px;
+}
+
+.button {
+    font-size: 30px;
+    width: 200px;
+}
+
+.buttonDiv {
+    padding-top: 0px;
+}
+
+h1 {
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+#image {
+    padding-bottom: 60px;
+}
